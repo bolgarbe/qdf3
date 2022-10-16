@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore
+END
+SparseColEtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseColEtree.h
+END
+SparseVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseVector.h
+END
+SparseTriangularView.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseTriangularView.h
+END
+SparseMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseMatrix.h
+END
+SparsePermutation.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparsePermutation.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/CMakeLists.txt
+END
+SparseView.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseView.h
+END
+CompressedStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/CompressedStorage.h
+END
+AmbiVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/AmbiVector.h
+END
+SparseUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseUtil.h
+END
+SparseCwiseBinaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseCwiseBinaryOp.h
+END
+SparseTranspose.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseTranspose.h
+END
+SparseDiagonalProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseDiagonalProduct.h
+END
+SparseProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseProduct.h
+END
+TriangularSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/TriangularSolver.h
+END
+SparseDot.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseDot.h
+END
+SparseFuzzy.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseFuzzy.h
+END
+ConservativeSparseSparseProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/ConservativeSparseSparseProduct.h
+END
+SparseRedux.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseRedux.h
+END
+SparseCwiseUnaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseCwiseUnaryOp.h
+END
+SparseBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseBlock.h
+END
+MappedSparseMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/MappedSparseMatrix.h
+END
+SparseSelfAdjointView.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseSelfAdjointView.h
+END
+SparseSparseProductWithPruning.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseSparseProductWithPruning.h
+END
+SparseDenseProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseDenseProduct.h
+END
+SparseMatrixBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseCore/SparseMatrixBase.h
+END

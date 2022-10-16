@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core
+END
+ArrayBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/ArrayBase.h
+END
+Reverse.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Reverse.h
+END
+Ref.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Ref.h
+END
+Map.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Map.h
+END
+CwiseBinaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/CwiseBinaryOp.h
+END
+Diagonal.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Diagonal.h
+END
+ArrayWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/ArrayWrapper.h
+END
+Random.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Random.h
+END
+CwiseNullaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/CwiseNullaryOp.h
+END
+EigenBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/EigenBase.h
+END
+MathFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/MathFunctions.h
+END
+DenseStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/DenseStorage.h
+END
+Assign.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Assign.h
+END
+PlainObjectBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/PlainObjectBase.h
+END
+CoreIterators.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/CoreIterators.h
+END
+Dot.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Dot.h
+END
+Fuzzy.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Fuzzy.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/CMakeLists.txt
+END
+BooleanRedux.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/BooleanRedux.h
+END
+Assign_MKL.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Assign_MKL.h
+END
+Redux.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Redux.h
+END
+CwiseUnaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/CwiseUnaryOp.h
+END
+VectorwiseOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/VectorwiseOp.h
+END
+DenseBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/DenseBase.h
+END
+Block.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Block.h
+END
+Stride.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Stride.h
+END
+SelfAdjointView.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/SelfAdjointView.h
+END
+Visitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Visitor.h
+END
+MatrixBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/MatrixBase.h
+END
+Transpositions.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Transpositions.h
+END
+NestByValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/NestByValue.h
+END
+Functors.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Functors.h
+END
+ReturnByValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/ReturnByValue.h
+END
+Replicate.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Replicate.h
+END
+MapBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/MapBase.h
+END
+Swap.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Swap.h
+END
+ProductBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/ProductBase.h
+END
+VectorBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/VectorBlock.h
+END
+GenericPacketMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/GenericPacketMath.h
+END
+Array.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Array.h
+END
+GeneralProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/GeneralProduct.h
+END
+Transpose.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Transpose.h
+END
+Select.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Select.h
+END
+DenseCoeffsBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/DenseCoeffsBase.h
+END
+DiagonalProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/DiagonalProduct.h
+END
+SolveTriangular.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/SolveTriangular.h
+END
+CwiseUnaryView.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/CwiseUnaryView.h
+END
+NumTraits.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/NumTraits.h
+END
+NoAlias.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/NoAlias.h
+END
+SelfCwiseBinaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/SelfCwiseBinaryOp.h
+END
+Flagged.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Flagged.h
+END
+GlobalFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/GlobalFunctions.h
+END
+BandMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/BandMatrix.h
+END
+PermutationMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/PermutationMatrix.h
+END
+TriangularMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/TriangularMatrix.h
+END
+CommaInitializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/CommaInitializer.h
+END
+DiagonalMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/DiagonalMatrix.h
+END
+Matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/Matrix.h
+END
+ForceAlignedAccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/ForceAlignedAccess.h
+END
+StableNorm.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/StableNorm.h
+END
+IO.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/Core/IO.h
+END

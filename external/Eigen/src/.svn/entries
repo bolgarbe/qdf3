@@ -1,0 +1,140 @@
+10
+
+dir
+1
+http://mitpc40.mit.bme.hu/svn/bence/dml_gui/Eigen/src
+http://mitpc40.mit.bme.hu/svn/bence
+
+
+
+2014-04-08T11:07:12.115172Z
+1
+bence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+00672043-b9e7-4966-9aad-4e460a3f8c06
+
+CMakeLists.txt
+file
+
+
+
+
+2014-04-20T10:59:50.820077Z
+2ebef3f13165f24e7bc3f09b782f73b2
+2014-04-08T11:07:12.115172Z
+1
+bence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+308
+
+MetisSupport
+dir
+
+LU
+dir
+
+plugins
+dir
+
+Cholesky
+dir
+
+Householder
+dir
+
+CholmodSupport
+dir
+
+QR
+dir
+
+SPQRSupport
+dir
+
+UmfPackSupport
+dir
+
+Jacobi
+dir
+
+Core
+dir
+
+misc
+dir
+
+Geometry
+dir
+
+SuperLUSupport
+dir
+
+SVD
+dir
+
+OrderingMethods
+dir
+
+SparseLU
+dir
+
+PardisoSupport
+dir
+
+SparseCholesky
+dir
+
+StlSupport
+dir
+
+SparseQR
+dir
+
+PaStiXSupport
+dir
+
+IterativeLinearSolvers
+dir
+
+Eigen2Support
+dir
+
+SparseCore
+dir
+
+Eigenvalues
+dir
+

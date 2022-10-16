@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/bence/!svn/ver/1/dml_gui/Eigen
+END
+SuperLUSupport
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bence/!svn/ver/1/dml_gui/Eigen/SuperLUSupport
+END
+SVD
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/bence/!svn/ver/1/dml_gui/Eigen/SVD
+END
+Sparse
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/bence/!svn/ver/1/dml_gui/Eigen/Sparse
+END
+Dense
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/bence/!svn/ver/1/dml_gui/Eigen/Dense
+END
+SparseCholesky
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bence/!svn/ver/1/dml_gui/Eigen/SparseCholesky
+END
+SparseQR
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/bence/!svn/ver/1/dml_gui/Eigen/SparseQR
+END
+PaStiXSupport
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bence/!svn/ver/1/dml_gui/Eigen/PaStiXSupport
+END
+Eigen2Support
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/bence/!svn/ver/1/dml_gui/Eigen/Eigen2Support
+END
+LeastSquares
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bence/!svn/ver/1/dml_gui/Eigen/LeastSquares
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bence/!svn/ver/1/dml_gui/Eigen/CMakeLists.txt
+END
+MetisSupport
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bence/!svn/ver/1/dml_gui/Eigen/MetisSupport
+END
+LU
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/bence/!svn/ver/1/dml_gui/Eigen/LU
+END
+UmfPackSupport
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bence/!svn/ver/1/dml_gui/Eigen/UmfPackSupport
+END
+Jacobi
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/bence/!svn/ver/1/dml_gui/Eigen/Jacobi
+END
+Core
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/bence/!svn/ver/1/dml_gui/Eigen/Core
+END
+Geometry
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/bence/!svn/ver/1/dml_gui/Eigen/Geometry
+END
+OrderingMethods
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bence/!svn/ver/1/dml_gui/Eigen/OrderingMethods
+END
+PardisoSupport
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bence/!svn/ver/1/dml_gui/Eigen/PardisoSupport
+END
+SparseLU
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/bence/!svn/ver/1/dml_gui/Eigen/SparseLU
+END
+QtAlignedMalloc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bence/!svn/ver/1/dml_gui/Eigen/QtAlignedMalloc
+END
+IterativeLinearSolvers
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bence/!svn/ver/1/dml_gui/Eigen/IterativeLinearSolvers
+END
+SparseCore
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/bence/!svn/ver/1/dml_gui/Eigen/SparseCore
+END
+Eigenvalues
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bence/!svn/ver/1/dml_gui/Eigen/Eigenvalues
+END
+StdVector
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/bence/!svn/ver/1/dml_gui/Eigen/StdVector
+END
+Array
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/bence/!svn/ver/1/dml_gui/Eigen/Array
+END
+StdDeque
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/bence/!svn/ver/1/dml_gui/Eigen/StdDeque
+END
+Householder
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bence/!svn/ver/1/dml_gui/Eigen/Householder
+END
+Cholesky
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/bence/!svn/ver/1/dml_gui/Eigen/Cholesky
+END
+SPQRSupport
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bence/!svn/ver/1/dml_gui/Eigen/SPQRSupport
+END
+CholmodSupport
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bence/!svn/ver/1/dml_gui/Eigen/CholmodSupport
+END
+QR
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/bence/!svn/ver/1/dml_gui/Eigen/QR
+END
+StdList
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/bence/!svn/ver/1/dml_gui/Eigen/StdList
+END
+Eigen
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/bence/!svn/ver/1/dml_gui/Eigen/Eigen
+END

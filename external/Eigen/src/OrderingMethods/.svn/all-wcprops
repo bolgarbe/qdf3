@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/OrderingMethods
+END
+Amd.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/OrderingMethods/Amd.h
+END
+Eigen_Colamd.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/OrderingMethods/Eigen_Colamd.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/OrderingMethods/CMakeLists.txt
+END
+Ordering.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/OrderingMethods/Ordering.h
+END

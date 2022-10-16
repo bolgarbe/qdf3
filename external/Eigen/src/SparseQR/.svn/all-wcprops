@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseQR
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseQR/CMakeLists.txt
+END
+SparseQR.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseQR/SparseQR.h
+END

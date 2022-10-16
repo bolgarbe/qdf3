@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SPQRSupport
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SPQRSupport/CMakeLists.txt
+END
+SuiteSparseQRSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SPQRSupport/SuiteSparseQRSupport.h
+END

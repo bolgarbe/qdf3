@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU
+END
+SparseLU.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU/SparseLU.h
+END
+SparseLU_kernel_bmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU/SparseLU_kernel_bmod.h
+END
+SparseLU_gemm_kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU/SparseLU_gemm_kernel.h
+END
+SparseLU_column_dfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU/SparseLU_column_dfs.h
+END
+SparseLU_panel_dfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU/SparseLU_panel_dfs.h
+END
+SparseLU_copy_to_ucol.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU/SparseLU_copy_to_ucol.h
+END
+SparseLU_column_bmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU/SparseLU_column_bmod.h
+END
+SparseLU_panel_bmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU/SparseLU_panel_bmod.h
+END
+SparseLU_heap_relax_snode.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU/SparseLU_heap_relax_snode.h
+END
+SparseLU_Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU/SparseLU_Utils.h
+END
+SparseLU_SupernodalMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU/SparseLU_SupernodalMatrix.h
+END
+SparseLUImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU/SparseLUImpl.h
+END
+SparseLU_relax_snode.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU/SparseLU_relax_snode.h
+END
+SparseLU_pruneL.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU/SparseLU_pruneL.h
+END
+SparseLU_Structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU/SparseLU_Structs.h
+END
+SparseLU_Memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU/SparseLU_Memory.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU/CMakeLists.txt
+END
+SparseLU_pivotL.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bence/!svn/ver/1/dml_gui/Eigen/src/SparseLU/SparseLU_pivotL.h
+END
